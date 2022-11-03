@@ -6,9 +6,13 @@ Projektet kommer skrivas med HTML, CSS, MarkDown, SVG och JavaScript. Ramverk oc
 
 Tjänster som används kommer vara GitHub och Netlify. 
 
+![projekt-bord_overview](https://user-images.githubusercontent.com/5168530/199813627-5e909076-5d0e-41e1-946e-130d14abe12b.png)
+
 ### Frontend 
 
 Den primära delen som slutkund kommer i kontakt med är frontenden. En PWA som ligger i ett eget repocitory. Denna PWA testkörs först på GitHub Pages, men under drift kommer den köras på Netlify. Varje ny release kommer skickas till Netlify. 
+
+Varje installation av PWA:n kommer man behöva mata in ett ID i. En nyckel att skicka via API:et för att identifiera sig, så backenden vet vilken kund det rör sig om och vilket theme den skall sända.
 
 ### Backend 
 
