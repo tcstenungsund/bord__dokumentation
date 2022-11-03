@@ -6,6 +6,30 @@ Projektet kommer skrivas med HTML, CSS, MarkDown, SVG och JavaScript. Ramverk oc
 
 Tjänster som används kommer vara GitHub och Netlify. 
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#bddfff', 'edgeLabelBackground':'#d39100', 'lineColor': '#29568f'}}}%%
+mindmap
+  root((Projekt Bord))
+    Frontend
+        Enkel HTML/CSS 
+        PWA 
+          Service Worker <br />Lagrar data lokalt
+          Lokal databas eller <br />local storage?
+        Läs API med JavaScript 
+          Hämta data för aktuellt theme
+          Skriv data till HTML
+    Backend
+      Läs data från themes 
+      Konvertera md till html 
+      Lagra data i databas (överkurs)
+      Skapa API 
+      Svara på APIförfrågningar med rätt data
+    Themes
+      Air
+      Fruit 
+      Andra...
+```
+
 ### Frontend 
 
 Den primära delen som slutkund kommer i kontakt med är frontenden. En PWA som ligger i ett eget repocitory. Denna PWA testkörs först på GitHub Pages, men under drift kommer den köras på Netlify. Varje ny release kommer skickas till Netlify. 
