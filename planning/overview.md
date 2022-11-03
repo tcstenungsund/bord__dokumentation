@@ -12,6 +12,8 @@ Tjänster som används kommer vara GitHub och Netlify.
 
 Den primära delen som slutkund kommer i kontakt med är frontenden. En PWA som ligger i ett eget repocitory. Denna PWA testkörs först på GitHub Pages, men under drift kommer den köras på Netlify. Varje ny release kommer skickas till Netlify. 
 
+Varje installation av PWA:n kommer man behöva mata in ett ID i. En nyckel att skicka via API:et för att identifiera sig, så backenden vet vilken kund det rör sig om och vilket theme den skall sända.
+
 ### Backend 
 
 Vår backend kommer skrivas i Node.js och köras på GitHub Pages. Huvuduppgiften är att svara via ett API och mellanlagra data i en databas. 
