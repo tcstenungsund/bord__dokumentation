@@ -15,6 +15,8 @@ this will be a short guide for you to look at, where we explain the problems we 
 ### The project as a whole
 - This project is one of the most rewarding projects you can work on, If you do it right. Get together and talk to each other. Find out what the team wants, Who is good at what, and give everyone a clear role. Everyone needs to know what they should be working on.
 - **I can not stress this enough, Choose a leader** This will benefit you a lot. The leader should not be someone who is programming the whole site. This is someone who takes responsibility for the project, Who makes the decisions for the project and is fine with sitting down and discussing about the project. This person also needs to take the time to guide everyone else towards success.
+- Another thought i had after writing this is how to set the system up if there are multiple clients. I would say create a repo for each customer, this benefits you because you don't have to create an admin page or something like that.
+- Also, you might not even need a database. Experiment with storing the data in JSON files. This is ofc dependent on the nature and scale of the project. But try to keep it as simple as possible. Sometimes the most simple solution is the best one... 
 
 ### Summary
 1. Get a clear picture of what you are doing, and what everyone else is doing.
