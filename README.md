@@ -1,6 +1,3 @@
-# bord__dokumentation
-Dokumentation till projekt Bord och dess teman
-
 # Welcome new 4th term studends, This is the past years 4th graders speaking!
 ## What is this? (And why should you read it?)
 this will be a short guide for you to look at, where we explain the problems we encountered while working on the project. What we in hindsight could have done differently. And how you can succeed where we did not...
