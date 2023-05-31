@@ -27,10 +27,10 @@ this will be a short guide for you to look at, where we explain the problems we 
 5. Don't have fun 😄
 
 **Repositorys that might be useful in some way** 
-This repo ofc
-[The frontend repo for this project](https://github.com/tcstenungsund/bord__frontend)
-[The backend repo for this project](https://github.com/tcstenungsund/bord__backend)
-[Klovaaxel's repo for bord v1](https://github.com/klovaaxel/info-table)
-[Pontalainen's repo for the laravel version of bord](https://github.com/pontalainen/bord_laravel)
+- This repo ofc
+- [The frontend repo for this project](https://github.com/tcstenungsund/bord__frontend)
+- [The backend repo for this project](https://github.com/tcstenungsund/bord__backend)
+- [Klovaaxel's repo for bord v1](https://github.com/klovaaxel/info-table)
+- [Pontalainen's repo for the laravel version of bord](https://github.com/pontalainen/bord_laravel)
 
 Good luck suckers!!!
